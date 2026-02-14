@@ -1,0 +1,2 @@
+token = '8474957590:AAEWepSnLiVmH5u8WyVQatB684TB7Dt41bM'
+DATABASE = 'portfolio.db'
